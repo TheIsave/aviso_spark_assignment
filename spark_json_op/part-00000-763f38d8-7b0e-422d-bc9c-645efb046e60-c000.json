@@ -1,0 +1,290 @@
+{
+  "CategoricalOrDiscreteColAnalysis": {
+    "boat": [
+      "{\"boat\":\"7\",\"count\":23}",
+      "{\"boat\":\"13 15\",\"count\":2}",
+      "{\"boat\":\"15\",\"count\":37}",
+      "{\"boat\":\"11\",\"count\":25}",
+      "{\"boat\":\"15 16\",\"count\":1}",
+      "{\"boat\":\"3\",\"count\":26}",
+      "{\"boat\":\"8\",\"count\":23}",
+      "{\"boat\":\"16\",\"count\":23}",
+      "{\"boat\":\"B\",\"count\":9}",
+      "{\"boat\":\"5\",\"count\":27}",
+      "{\"boat\":\"5 9\",\"count\":1}",
+      "{\"boat\":\"13 15 B\",\"count\":1}",
+      "{\"boat\":\"5 7\",\"count\":2}",
+      "{\"boat\":\"C D\",\"count\":2}",
+      "{\"boat\":\"6\",\"count\":20}",
+      "{\"boat\":\"D\",\"count\":20}",
+      "{\"boat\":\"C\",\"count\":38}",
+      "{\"boat\":\"8 10\",\"count\":1}",
+      "{\"boat\":\"A\",\"count\":11}",
+      "{\"boat\":\"9\",\"count\":25}",
+      "{\"boat\":\"1\",\"count\":5}",
+      "{\"boat\":\"10\",\"count\":29}",
+      "{\"boat\":\"4\",\"count\":31}",
+      "{\"boat\":\"12\",\"count\":19}",
+      "{\"boat\":\"13\",\"count\":39}",
+      "{\"boat\":\"14\",\"count\":33}",
+      "{\"boat\":\"2\",\"count\":13}",
+      "{\"boat\":\"null\",\"count\":823}"
+    ],
+    "body": [
+      "{\"body\":148,\"count\":1}",
+      "{\"body\":53,\"count\":1}",
+      "{\"body\":255,\"count\":1}",
+      "{\"body\":133,\"count\":1}",
+      "{\"body\":322,\"count\":1}",
+      "{\"body\":155,\"count\":1}",
+      "{\"body\":108,\"count\":1}",
+      "{\"body\":126,\"count\":1}",
+      "{\"body\":101,\"count\":1}",
+      "{\"body\":81,\"count\":1}",
+      "{\"body\":271,\"count\":1}",
+      "{\"body\":236,\"count\":1}",
+      "{\"body\":103,\"count\":1}",
+      "{\"body\":285,\"count\":1}",
+      "{\"body\":22,\"count\":1}",
+      "{\"body\":209,\"count\":1}",
+      "{\"body\":230,\"count\":1}",
+      "{\"body\":122,\"count\":1}",
+      "{\"body\":232,\"count\":1}",
+      "{\"body\":190,\"count\":1}",
+      "{\"body\":47,\"count\":1}",
+      "{\"body\":305,\"count\":1}",
+      "{\"body\":259,\"count\":1}",
+      "{\"body\":null,\"count\":1188}",
+      "{\"body\":206,\"count\":1}",
+      "{\"body\":1,\"count\":1}",
+      "{\"body\":297,\"count\":1}",
+      "{\"body\":52,\"count\":1}",
+      "{\"body\":16,\"count\":1}",
+      "{\"body\":142,\"count\":1}",
+      "{\"body\":328,\"count\":1}",
+      "{\"body\":169,\"count\":1}",
+      "{\"body\":283,\"count\":1}",
+      "{\"body\":295,\"count\":1}",
+      "{\"body\":292,\"count\":1}",
+      "{\"body\":306,\"count\":1}",
+      "{\"body\":120,\"count\":1}",
+      "{\"body\":96,\"count\":1}",
+      "{\"body\":258,\"count\":1}",
+      "{\"body\":19,\"count\":1}",
+      "{\"body\":299,\"count\":1}",
+      "{\"body\":309,\"count\":1}",
+      "{\"body\":43,\"count\":1}",
+      "{\"body\":15,\"count\":1}",
+      "{\"body\":269,\"count\":1}",
+      "{\"body\":327,\"count\":1}",
+      "{\"body\":165,\"count\":1}",
+      "{\"body\":189,\"count\":1}",
+      "{\"body\":207,\"count\":1}",
+      "{\"body\":37,\"count\":1}",
+      "{\"body\":61,\"count\":1}",
+      "{\"body\":197,\"count\":1}",
+      "{\"body\":263,\"count\":1}",
+      "{\"body\":17,\"count\":1}",
+      "{\"body\":9,\"count\":1}",
+      "{\"body\":286,\"count\":1}",
+      "{\"body\":72,\"count\":1}",
+      "{\"body\":175,\"count\":1}",
+      "{\"body\":35,\"count\":1}",
+      "{\"body\":196,\"count\":1}",
+      "{\"body\":307,\"count\":1}",
+      "{\"body\":173,\"count\":1}",
+      "{\"body\":4,\"count\":1}",
+      "{\"body\":176,\"count\":1}",
+      "{\"body\":7,\"count\":1}",
+      "{\"body\":130,\"count\":1}",
+      "{\"body\":314,\"count\":1}",
+      "{\"body\":171,\"count\":1}",
+      "{\"body\":51,\"count\":1}",
+      "{\"body\":166,\"count\":1}",
+      "{\"body\":69,\"count\":1}",
+      "{\"body\":97,\"count\":1}",
+      "{\"body\":234,\"count\":1}",
+      "{\"body\":312,\"count\":1}",
+      "{\"body\":50,\"count\":1}",
+      "{\"body\":293,\"count\":1}",
+      "{\"body\":45,\"count\":1}",
+      "{\"body\":38,\"count\":1}",
+      "{\"body\":261,\"count\":1}",
+      "{\"body\":249,\"count\":1}",
+      "{\"body\":181,\"count\":1}",
+      "{\"body\":80,\"count\":1}",
+      "{\"body\":245,\"count\":1}",
+      "{\"body\":70,\"count\":1}",
+      "{\"body\":62,\"count\":1}",
+      "{\"body\":121,\"count\":1}",
+      "{\"body\":156,\"count\":1}",
+      "{\"body\":143,\"count\":1}",
+      "{\"body\":256,\"count\":1}",
+      "{\"body\":98,\"count\":1}",
+      "{\"body\":287,\"count\":1}",
+      "{\"body\":32,\"count\":1}",
+      "{\"body\":75,\"count\":1}",
+      "{\"body\":109,\"count\":1}",
+      "{\"body\":304,\"count\":1}",
+      "{\"body\":298,\"count\":1}",
+      "{\"body\":188,\"count\":1}",
+      "{\"body\":58,\"count\":1}",
+      "{\"body\":110,\"count\":1}",
+      "{\"body\":260,\"count\":1}",
+      "{\"body\":68,\"count\":1}",
+      "{\"body\":147,\"count\":1}",
+      "{\"body\":14,\"count\":1}",
+      "{\"body\":284,\"count\":1}",
+      "{\"body\":135,\"count\":1}",
+      "{\"body\":119,\"count\":1}",
+      "{\"body\":79,\"count\":1}",
+      "{\"body\":201,\"count\":1}",
+      "{\"body\":149,\"count\":1}",
+      "{\"body\":131,\"count\":1}",
+      "{\"body\":294,\"count\":1}",
+      "{\"body\":124,\"count\":1}",
+      "{\"body\":275,\"count\":1}",
+      "{\"body\":46,\"count\":1}",
+      "{\"body\":67,\"count\":1}",
+      "{\"body\":174,\"count\":1}",
+      "{\"body\":172,\"count\":1}",
+      "{\"body\":153,\"count\":1}",
+      "{\"body\":18,\"count\":1}",
+      "{\"body\":208,\"count\":1}",
+      "{\"body\":187,\"count\":1}",
+      "{\"body\":89,\"count\":1}"
+    ],
+    "embarked": [
+      "{\"embarked\":\"Q\",\"count\":123}",
+      "{\"embarked\":\"C\",\"count\":270}",
+      "{\"embarked\":\"S\",\"count\":914}",
+      "{\"embarked\":\"null\",\"count\":2}"
+    ],
+    "parch": [
+      "{\"parch\":1,\"count\":170}",
+      "{\"parch\":6,\"count\":2}",
+      "{\"parch\":3,\"count\":8}",
+      "{\"parch\":5,\"count\":6}",
+      "{\"parch\":9,\"count\":2}",
+      "{\"parch\":4,\"count\":6}",
+      "{\"parch\":2,\"count\":113}",
+      "{\"parch\":0,\"count\":1002}"
+    ],
+    "pclass": [
+      "{\"pclass\":1,\"count\":323}",
+      "{\"pclass\":3,\"count\":709}",
+      "{\"pclass\":2,\"count\":277}"
+    ],
+    "sex": [
+      "{\"sex\":\"female\",\"count\":466}",
+      "{\"sex\":\"male\",\"count\":842}",
+      "{\"sex\":\"2.3\",\"count\":1}"
+    ],
+    "sibsp": [
+      "{\"sibsp\":1,\"count\":319}",
+      "{\"sibsp\":3,\"count\":20}",
+      "{\"sibsp\":5,\"count\":6}",
+      "{\"sibsp\":4,\"count\":22}",
+      "{\"sibsp\":8,\"count\":9}",
+      "{\"sibsp\":2,\"count\":42}",
+      "{\"sibsp\":0,\"count\":891}"
+    ],
+    "survived": [
+      "{\"survived\":1,\"count\":500}",
+      "{\"survived\":0,\"count\":809}"
+    ]
+  },
+  "ColumnCategories": {
+    "categorical": [
+      "pclass",
+      "survived",
+      "sex",
+      "sibsp",
+      "parch",
+      "embarked",
+      "boat"
+    ],
+    "continuous": [
+      "age",
+      "fare"
+    ],
+    "discrete": [
+      "body"
+    ],
+    "text": [
+      "name",
+      "ticket",
+      "cabin",
+      "home"
+    ]
+  },
+  "ContinuousColAnalysis": {
+    "continuous_col_histogram_details": [
+      [
+        "{\"histogram_numeric(age, 5)\":[{\"x\":4.59705882352941,\"y\":85.0},{\"x\":18.988276425855517,\"y\":263.0},{\"x\":29.490654205607463,\"y\":428.0},{\"x\":47.71600000000003,\"y\":250.0},{\"x\":66.00000000000001,\"y\":20.0}]}"
+      ],
+      [
+        "{\"histogram_numeric(fare, 5)\":[{\"x\":16.423033941605826,\"y\":1096.0},{\"x\":73.29831450381675,\"y\":131.0},{\"x\":135.22480232558144,\"y\":43.0},{\"x\":237.78762352941175,\"y\":34.0},{\"x\":512.3292,\"y\":4.0}]}"
+      ]
+    ],
+    "continuous_col_min_max_details": [
+      [
+        "{\"min(age)\":0.1667,\"max(age)\":80.0}"
+      ],
+      [
+        "{\"min(fare)\":0.0,\"max(fare)\":512.3292}"
+      ]
+    ]
+  },
+  "MissingColValues": {
+    "age": 263,
+    "boat": 823,
+    "body": 1188,
+    "cabin": 1014,
+    "embarked": 2,
+    "fare": 1,
+    "home": 564,
+    "name": 0,
+    "parch": 0,
+    "pclass": 0,
+    "sex": 0,
+    "sibsp": 0,
+    "survived": 0,
+    "ticket": 0
+  },
+  "TextColAnalysis": [
+    [
+      "{\"name_distinct_word_cnt\":6}",
+      "{\"name_distinct_word_cnt\":3}",
+      "{\"name_distinct_word_cnt\":5}",
+      "{\"name_distinct_word_cnt\":9}",
+      "{\"name_distinct_word_cnt\":4}",
+      "{\"name_distinct_word_cnt\":8}",
+      "{\"name_distinct_word_cnt\":7}",
+      "{\"name_distinct_word_cnt\":14}"
+    ],
+    [
+      "{\"ticket_distinct_word_cnt\":1}",
+      "{\"ticket_distinct_word_cnt\":3}",
+      "{\"ticket_distinct_word_cnt\":2}"
+    ],
+    [
+      "{\"cabin_distinct_word_cnt\":-1}",
+      "{\"cabin_distinct_word_cnt\":1}",
+      "{\"cabin_distinct_word_cnt\":3}",
+      "{\"cabin_distinct_word_cnt\":4}",
+      "{\"cabin_distinct_word_cnt\":2}"
+    ],
+    [
+      "{\"home_distinct_word_cnt\":-1}",
+      "{\"home_distinct_word_cnt\":1}",
+      "{\"home_distinct_word_cnt\":6}",
+      "{\"home_distinct_word_cnt\":3}",
+      "{\"home_distinct_word_cnt\":5}",
+      "{\"home_distinct_word_cnt\":4}",
+      "{\"home_distinct_word_cnt\":8}",
+      "{\"home_distinct_word_cnt\":7}",
+      "{\"home_distinct_word_cnt\":2}"
+    ]
+  ]
+}
